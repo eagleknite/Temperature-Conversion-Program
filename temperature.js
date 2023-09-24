@@ -1,7 +1,7 @@
 // Temperature Metric Converter
 // Arnold Twala
-// Task complete? No
-// task description: Use temperature.js to write a program that converts temperatures between 
+
+// Use temperature.js to write a program that converts temperatures between 
 // Celsius, Fahrenheit, and Kelvin. 
 // The program should ask the user to enter the metric they are converting.
 // Ask a user the temperature they want to convert, 
@@ -105,19 +105,3 @@ else {
   alert(`Please enter valid metric and convertTo values `);
 }
 
-// This is what I learned from this project:
-// 1. How to use the toFixed() method to round the converted temperature to 2 decimal places.
-// 2. How to use the toUpperCase() method to convert the user input to uppercase.
-// 3. How to use the Number() method to convert the user input to a number.
-// 4. How to use temperature conversion formulas.
-// 5. Temperature ranges for each metric.
-
-// Reference:
-// https://www.cuemath.com/temperature-conversion-formulas/
-// https://www.geeksforgeeks.org/temperature-converter-using-html-css-and-javascript/
-// https://javascript.plainenglish.io/building-a-temperature-converter-app-using-html-css-and-javascript-52097d9d3e98
-// https://www.livescience.com/temperature.html
-// https://www.w3schools.com/jsref/jsref_tofixed.asp
-// https://www.geeksforgeeks.org/javascript-number-tofixed-method/
-// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toUpperCase
-// https://www.freecodecamp.org/news/javascript-uppercase-how-to-capitalize-a-string-in-js-with-touppercase/
