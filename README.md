@@ -21,10 +21,9 @@ Once the required inputs are given, the program outputs the converted temperatur
 
 ## Development Information
 
-- **Assigned to**: Arnold Twala (AT23030008372)
-- **Date assigned**: 10 Apr 2023
-- **Due date**: 13 Apr 2023
-- **Completion status**: In Progress
+- Arnold Twala
+- GitHub: [https://github.com/eagleknite]
+
 
 ## Contributing
 
